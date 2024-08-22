@@ -2,11 +2,11 @@
   {
     "title": "My First Blog Post",
     "date": "2023-08-22",
-    "content": "<p>This is the content of my first blog post. You can use HTML tags here for formatting.</p>"
+    "content": "<p>This is a preview of my first blog post. It's just a taste of what's to come!</p><p>When you click 'Read More', you'll see the full article content here, which can be much longer and include more details, images, and formatting.</p>"
   },
   {
     "title": "Another Interesting Article",
     "date": "2023-08-23",
-    "content": "<p>Here's another blog post with some interesting content.</p>"
+    "content": "<p>Here's a preview of another interesting article. It's sure to captivate readers!</p><p>The full content of this article would appear here when 'Read More' is clicked. You can include multiple paragraphs, lists, or even embedded content like images or videos.</p>"
   }
 ]
