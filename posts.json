@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My First Blog Post",
+    "date": "2023-08-22",
+    "content": "<p>This is the content of my first blog post. You can use HTML tags here for formatting.</p>"
+  },
+  {
+    "title": "Another Interesting Article",
+    "date": "2023-08-23",
+    "content": "<p>Here's another blog post with some interesting content.</p>"
+  }
+]
